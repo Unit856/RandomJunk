@@ -1,0 +1,17 @@
+{
+    "normal": "image1Url",
+    "fire": "image2Url",
+    "water": "image3Url",
+    "grass": "image2Url",
+    "electric": "image2Url",
+    "ice": "image2Url",
+    "fighting": "image2Url",
+    "psychic": "image2Url",
+    "bug": "image2Url",
+    "rock": "image2Url",
+    "ghost": "image2Url",
+    "dragon": "image2Url",
+    "dark": "image2Url",
+    "steel": "image2Url",
+    "fairy": "image2Url"
+  }
